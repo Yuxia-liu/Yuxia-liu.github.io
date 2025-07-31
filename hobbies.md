@@ -4,50 +4,33 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
 
 # Hobbies
 
-## Swimming & Surfing
+## Hiking
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/h1.JPG">
+<img src="/images/h2.JPG">
+<img src="/images/h3.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>I developed a passion for hiking this year, finding it an incredibly engaging activity. It’s a perfect blend of discovering diverse scenic beauties and getting physical exercise—each trail unfolds unique landscapes, from lush forests to rugged peaks, while every step strengthens my body. What I love most is high-altitude hiking. There’s an exhilarating thrill in feeling my heart rate quicken as I ascend, and the experience somehow melts away stress, leaving me refreshed and grounded. It’s more than a hobby; it’s a way to connect with nature and reset my mind.
+.
 
-## Workshop
+## Travel
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/t2.JPG">
+<img src="/images/t1.JPG">
+<img src="/images/t3.JPG">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>Travel has always been a beloved passion of mine. I’m drawn to the joy of immersing myself in the unique customs and cultures of different cities—each place tells its own story through local traditions, dialects, and daily rhythms. What makes these journeys even more special is savoring distinctive local cuisines, from street food stalls serving aromatic snacks to family-run eateries with secret recipes passed down generations. Sharing these moments with friends turns ordinary trips into unforgettable memories: laughing over a meal, getting lost in a historic alley, or marveling at a unexpected sunset together. For me, travel isn’t just about visiting new places; it’s about collecting experiences that enrich the heart and broaden the mind..
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
 
 
 ## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+I used to be really fond of playing badminton. There was something thrilling about the quick rallies, the sound of the shuttlecock hitting the racket, and the rush of scoring a point. It was not just a sport but a fun way to stay active and connect with others. Unfortunately, I haven’t played in a long time. Finding people to play with and having access to a proper court have been hard to come by, and that’s kept me away from this once-loved hobby.
 
-## My Cat
 
-She is my love. Her name is Qbao (Q宝).
 
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
