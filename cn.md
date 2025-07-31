@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="https://Yuxia-liu.github.io/xia.JPG" class="floatpic">
+<img src="https://Yuxia-liu.github.io/xia.jpg" class="floatpic">
 
 <br>首先感谢您的阅读。我是刘禹希，2002年生，四川宜宾人。
 
