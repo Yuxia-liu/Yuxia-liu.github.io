@@ -9,10 +9,10 @@ title: Hobbies
 
 ## Hiking
 
-<!-- 去掉 class="third"，看图片是否显示 -->
-<img src="./images/h1.JPG" style="width: 200px;"> <!-- 加 style 确保有尺寸 -->
-<img src="./images/h2.JPG" style="width: 200px;">
-<img src="./images/h3.JPG" style="width: 200px;">
+<div class="third">
+<img src="./images/h1.JPG"> 
+<img src="./images/h2.JPG">
+<img src="./images/h3.JPG">
 </div>
 <br>I developed a passion for hiking this year, finding it an incredibly engaging activity. It’s a perfect blend of discovering diverse scenic beauties and getting physical exercise—each trail unfolds unique landscapes, from lush forests to rugged peaks, while every step strengthens my body. What I love most is high-altitude hiking. There’s an exhilarating thrill in feeling my heart rate quicken as I ascend, and the experience somehow melts away stress, leaving me refreshed and grounded. It’s more than a hobby; it’s a way to connect with nature and reset my mind.
 .
@@ -32,5 +32,13 @@ title: Hobbies
 
 I used to be really fond of playing badminton. There was something thrilling about the quick rallies, the sound of the shuttlecock hitting the racket, and the rush of scoring a point. It was not just a sport but a fun way to stay active and connect with others. Unfortunately, I haven’t played in a long time. Finding people to play with and having access to a proper court have been hard to come by, and that’s kept me away from this once-loved hobby.
 
+## Chat with me
 
+ Welcome to chat with me!
+
+<!-- Calendly inline widget begin -->
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
