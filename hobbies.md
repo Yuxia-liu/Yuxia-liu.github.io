@@ -9,10 +9,10 @@ title: Hobbies
 
 ## Hiking
 
-<div class="third">
-<img src="./images/h1.JPG">
-<img src="./images/h2.JPG">
-<img src="./images/h3.JPG">
+<!-- 去掉 class="third"，看图片是否显示 -->
+<img src="./images/h1.JPG" style="width: 200px;"> <!-- 加 style 确保有尺寸 -->
+<img src="./images/h2.JPG" style="width: 200px;">
+<img src="./images/h3.JPG" style="width: 200px;">
 </div>
 <br>I developed a passion for hiking this year, finding it an incredibly engaging activity. It’s a perfect blend of discovering diverse scenic beauties and getting physical exercise—each trail unfolds unique landscapes, from lush forests to rugged peaks, while every step strengthens my body. What I love most is high-altitude hiking. There’s an exhilarating thrill in feeling my heart rate quicken as I ascend, and the experience somehow melts away stress, leaving me refreshed and grounded. It’s more than a hobby; it’s a way to connect with nature and reset my mind.
 .
